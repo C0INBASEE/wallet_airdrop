@@ -1,1 +1,1 @@
-# wallet_airdrop
+# Rewards
